@@ -1,5 +1,15 @@
-%read sprite sheet and seperate into 9 seperate sprites
-
+% ======================================================================
+% Filename: spritesheet_parse.m
+% Stage: experimenting
+% Version: v1
+% Date: 20/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - n\a - initial version
+%
+% TESTING DONE:
+% - output displayed as a figure for verification
+% ======================================================================
 spritesheet = imread('spritesheet.jpg'); 
 
 %height and width of indevidual sprites to crop on the sheet

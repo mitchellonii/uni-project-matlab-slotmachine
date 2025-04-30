@@ -1,3 +1,20 @@
+
+% ======================================================================
+% Filename: slotWinTestSingle.m
+% Stage: almost there
+% Version: v3
+% Date: 26/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - everything put together in one script
+% - buttons trigger the spinning animation
+% - money system implemented
+% TESTING DONE:
+% - driverfiles remain applicable from stage2
+% - visual experimentation/testing 
+% ======================================================================
+
+
 clc;
 clear all;
 

@@ -1,0 +1,11 @@
+getSequentialMatchesInArray is a function that takes a vector array as input, and returns 
+the length of the longest x-in-a-row streak, and the start index of the streak
+
+
+input      outputLength     outputStartIndex
+1 2 3 3    2                3
+7 7 7 0    3                1
+6 5 4 3    1                1
+
+this algorithm is used to determine any win-cases for my slot machine game.
+There is a driverfule 'sequentialMatchesDriver.m' to further verify functionality

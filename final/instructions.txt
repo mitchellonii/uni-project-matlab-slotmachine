@@ -1,0 +1,9 @@
+run main.m
+input a integer number for how many reels you wish to have when you play
+press applicable buttons in the GUI to play
+
+
+win conditions:
+2x in a row or greater of same symbol
+3x lucky 7's (total)
+2x in a row or greater of same symbol or wildcard 'Bar' symbols

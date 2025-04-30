@@ -1,3 +1,16 @@
+% ======================================================================
+% Filename: bonusGameDriver.m
+% Stage: done
+% Version: v1
+% Date: 28/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - initial version
+%
+% TESTING DONE:
+% - drive file tests bonus game trigger condition
+% ======================================================================
+
 % test driver for bonus game detection (3 lucky 7's in total)
 
 clear; clc;

@@ -1,5 +1,16 @@
-% test driver for getSequentialMatchesInArray
-
+% ======================================================================
+% Filename: sequentialMatchesDriver.m
+% Stage: finalizing
+% Version: v2
+% Date: 24/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - updated for new version of getSequentialMatchesInArray.m
+% - tests for 'wildcards' in a array element streak
+%
+% TESTING DONE:
+% - driverfile is for testing and comparison
+% ======================================================================
 clear; clc;
 
 

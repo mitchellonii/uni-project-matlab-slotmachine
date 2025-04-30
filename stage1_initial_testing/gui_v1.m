@@ -1,7 +1,21 @@
+% ======================================================================
+% Filename: gui_v1.m
+% Stage: experimenting
+% Version: v1
+% Date: 20/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - n\a - initial version
+%
+% TESTING DONE:
+% - experimented with different positioning of elements
+% - experimented with styling buttons and inputs
+% - figure looked at and compared between minor adjustments
+% ======================================================================
+
 clc;
 clear all;
-
-%this is a matlab-based slot machine game
+%this is the initial GUI idea for my slot machine game
 
 %initialise constants
 SPRITE_HEIGHT = 100;

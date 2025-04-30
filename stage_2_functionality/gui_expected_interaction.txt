@@ -1,0 +1,5 @@
+deductionAmount     expectedOutput              output
+100                 900                         900
+0                   1000                        100
+2000                ERR: Insufficient funds     ERR: Insufficient funds
+"abcd"              ERRR: Invalid input         ERRR: Invalid input

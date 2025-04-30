@@ -1,3 +1,18 @@
+% ======================================================================
+% Filename: main.m
+% Stage: done
+% Version: v2
+% Date: 28/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - seperate gui initialization from other functions
+% - improved modularity 
+%
+% TESTING DONE:
+% - visial iterations and comparisons made by displaying GUI in a figure
+% ======================================================================
+
+
 clc;
 clear all;
 

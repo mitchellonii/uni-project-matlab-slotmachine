@@ -1,3 +1,19 @@
+
+% ======================================================================
+% Filename: spin.m
+% Stage: done
+% Version: v3
+% Date: 28/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - seperate from main function
+% - implement wildcards and bonus spins
+% TESTING DONE:
+% - visual testing done through figure GUI
+% - driverfiles used for win-case algorithms
+% ======================================================================
+
+
 function [returnMulti, text] = spin(hImg, SPRITE_HEIGHT, SPRITE_WIDTH, ROWS, COLS, REELS)
     %get sprites from spritesheet
     [sprites, TOTAL_SPRITES] = createSpritesVector('spritesheet.jpg', ROWS, COLS, SPRITE_HEIGHT, SPRITE_WIDTH);

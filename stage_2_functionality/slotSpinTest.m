@@ -1,3 +1,17 @@
+% ======================================================================
+% Filename: slotSpinTest.m
+% Stage: experimentation
+% Version: v1
+% Date: 24/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - initial version
+%
+% TESTING DONE:
+% - testing done via figure-output-inspection
+% ======================================================================
+
+
 spritesheet = imread('spritesheet.jpg'); 
 
 spriteHeight = 100;

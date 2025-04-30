@@ -1,3 +1,20 @@
+
+% ======================================================================
+% Filename: spinButtonCallback.m
+% Stage: done
+% Version: v2
+% Date: 28/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - update lables
+% - seperate from main function
+% - calculate money/bet amount
+% TESTING DONE:
+% - visual testing done through figure GUI
+% ======================================================================
+
+
+
 function spinButtonCallback(src, event, img, FIG, SPRITE_HEIGHT, SPRITE_WIDTH, ROWS, COLS, REELS, moneyLable, betLable,betButton,betInputBox)
     %turn buttons off
     set(betButton, 'Visible','off');

@@ -1,3 +1,20 @@
+% ======================================================================
+% Filename: guiInteractionTest.m
+% Stage: experimenting
+% Version: v1
+% Date: 24/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - n\a - initial version
+%
+% TESTING DONE:
+% - gui displayed as a figure for manual interaction testing
+% - see "gui_expected_interaction.txt"
+% ======================================================================
+
+
+%this program was an experiment for me to test gui interactions and
+%callbacks
 initialAmount = 1000; 
 
 fig = figure('Position', [500, 500, 350, 200], 'Name', 'Money Counter', 'NumberTitle', 'off');

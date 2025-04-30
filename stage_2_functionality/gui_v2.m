@@ -1,3 +1,19 @@
+% ======================================================================
+% Filename: gui_v2.m
+% Stage: refining
+% Version: v2
+% Date: 24/4/25
+% 
+% CHANGES IN THIS VERSION:
+% -added 'bet amount' functionality
+% - changed layout slightly
+% - improved modularity
+%
+% TESTING DONE:
+% - visial iterations and comparisons made by displaying GUI in a figure
+% ======================================================================
+
+
 clc;
 clear all;
 

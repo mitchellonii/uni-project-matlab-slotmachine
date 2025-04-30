@@ -1,4 +1,17 @@
-%this function gets sequential matches in an array with a 'wild'-number
+% ======================================================================
+% Filename: getSequentialMatchesInArray.m
+% Stage: done
+% Version: v2
+% Date: 24/4/25
+% 
+% CHANGES IN THIS VERSION:
+% - Implements a WILD_IDX (wild id) to allow a wildcard sprite in the game
+% - the streak will continue if it hits a wildcard
+%
+% TESTING DONE:
+% - output displayed as a figure for verification
+% ======================================================================
+
 
 function [streakLength, startIndex] = getSequentialMatchesInArray(array, WILD_IDX)
     % initialise temp variables
